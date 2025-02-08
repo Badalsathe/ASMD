@@ -1,0 +1,21 @@
+ package add;
+
+import java.util.Scanner;
+
+public class TwoNoAdd {
+
+	public static void main(String[] args) {
+	
+				
+		Scanner sc = new Scanner(System.in);	
+				
+		System.out.println("Enter New Number");
+		int a= sc.nextInt();
+		System.out.println("Enter New Number");
+		int b= sc.nextInt();
+		int c = a+b;
+		System.out.println(c);
+	}
+	
+	
+}
