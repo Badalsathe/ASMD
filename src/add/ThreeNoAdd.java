@@ -7,6 +7,9 @@ public class ThreeNoAdd {
 	  int b=20;
 	  int c=30;
 	  int d=a+b+c;
+
+
+		 System.out.println(a+b);
 			  System.out.println(d);
 	   
 	   
